@@ -1,6 +1,9 @@
 # Changelog
 [Back](README.md)
 
+## 3.0.2 (2025-07-18)
+1. Update Link
+
 ## 3.0.1 (2025-01-13)
 1. Add .NET Standard 2.0 support
     * It is now easily referenced in the .NET Standard 2.0 library.
