@@ -2,7 +2,7 @@
   <PropertyGroup>
     <NoWarn>$(NoWarn);S107;S2436;SA1600</NoWarn>
     <Product>Bluehill.Deconstructors</Product>
-    <PackageProjectUrl>https://BluehillNuGet.github.io/Bluehill.Deconstructors</PackageProjectUrl>
+    <PackageProjectUrl>https://bluehillnuget.github.io/Bluehill.Deconstructors</PackageProjectUrl>
     <PackageTags>deconstructor;deconstruct;bluehill</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
