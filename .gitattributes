@@ -25,7 +25,6 @@
 *.shproj text eol=crlf
 *.projitems text eol=crlf
 *.props text eol=crlf
-Directory.Packages.props text=auto eol=crlf
 *.targets text eol=crlf
 *.pubxml text eol=crlf
 *.sln text eol=crlf
@@ -36,3 +35,5 @@ Directory.Packages.props text=auto eol=crlf
 *.vbw text eol=crlf
 *.bat text eol=crlf
 *.cmd text eol=crlf
+*.manifest eol=crlf
+*.config eol=crlf

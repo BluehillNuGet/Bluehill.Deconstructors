@@ -4,36 +4,36 @@
     ".NETStandard,Version=v2.1": {
       "Bluehill.Imports": {
         "type": "Direct",
-        "requested": "[1.0.14, )",
-        "resolved": "1.0.14",
-        "contentHash": "69FRPcg+HibYwA/u9kbNWxJq78E20HKY5K3lS1+Sm5v3CZfOigXzAkrw/5B474Ihi55lZnFyHyGeeMMiCLvAfw==",
+        "requested": "[1.0.17, )",
+        "resolved": "1.0.17",
+        "contentHash": "7A9uSe1ZvRhd7AXfkiovMcTBSzJoiTT8GBG5dTipv/BP57Y4Ak5E8FqN5qZI+6DiyUSX1ZCxCZB6Dm1vBZy8RQ==",
         "dependencies": {
-          "Bluehill.Analyzers": "1.6.0",
-          "Roslynator.Analyzers": "4.12.11",
-          "Roslynator.Formatting.Analyzers": "4.12.11",
-          "SonarAnalyzer.CSharp": "10.6.0.109712",
+          "Bluehill.Analyzers": "1.8.0",
+          "Roslynator.Analyzers": "4.13.1",
+          "Roslynator.Formatting.Analyzers": "4.13.1",
+          "SonarAnalyzer.CSharp": "10.12.0.118525",
           "StyleCop.Analyzers": "1.2.0-beta.556"
         }
       },
       "Bluehill.Analyzers": {
         "type": "Transitive",
-        "resolved": "1.6.0",
-        "contentHash": "pga6Aw1I0UkBDqgZnGSUEM5e+LMPZdJGaLnSne63DmiNUKGtD7gsZ1BX4Zbni1ffh+sK5E+j1yVoLeRrNJ51Ug=="
+        "resolved": "1.8.0",
+        "contentHash": "R04UTJ5EBkpFULLgeEVs1O5jGm6yyY7mxA3ADG0bJbkwC8Z7XfQV/qPDCiniAXLMDildsorQkgTUm8afmEauaw=="
       },
       "Roslynator.Analyzers": {
         "type": "Transitive",
-        "resolved": "4.12.11",
-        "contentHash": "yvsRYT5EVtcT+V8ZW+5cxd1O9Sgf8PbC7DlQL/T5NA4g5yjaFe+WQ7evpy92Lj29m2E+XayBsO2TnCWKZlPWaA=="
+        "resolved": "4.13.1",
+        "contentHash": "KZpLy6ZlCebMk+d/3I5KU2R7AOb4LNJ6tPJqPtvFXmO8bEBHQvCIAvJOnY2tu4C9/aVOROTDYUFADxFqw1gh/g=="
       },
       "Roslynator.Formatting.Analyzers": {
         "type": "Transitive",
-        "resolved": "4.12.11",
-        "contentHash": "+6Rlz0wY5Rc1eceHytRjM3+Hg9kt8zDPfGOeutv2Yy62rQgyFhvFAAdOT+SP64jEj9MTIjiasO5W965NBWxi7g=="
+        "resolved": "4.13.1",
+        "contentHash": "V9gCt0T1Tnu+jMWJDLiUV/vOTmGzmofEdVeUPKPdh8MJW7f3kkhFXSeDotwl8Ob88OxrBf+4LrV/D7OA4tAluA=="
       },
       "SonarAnalyzer.CSharp": {
         "type": "Transitive",
-        "resolved": "10.6.0.109712",
-        "contentHash": "fMwoXhlmFrcIYLpmCZOPXQkKwQD6WoFsmkZp8FZ7RJ9Db+ELUg56qh1X4Vy2nU7ZOWmuAMDOMosYxiQKNLBWtw=="
+        "resolved": "10.12.0.118525",
+        "contentHash": "uP38bsYegQBk8WOM6LYIAht6hrA7tcJgep/WuifPJjhjtjysPUP/iM/c1+P2+llNIDmm1s8Xh86+WG3K71eycw=="
       },
       "StyleCop.Analyzers": {
         "type": "Transitive",
